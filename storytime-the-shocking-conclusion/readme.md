@@ -1,0 +1,1 @@
+g++ lolz.cpp -fno-stack-protector

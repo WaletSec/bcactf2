@@ -1,0 +1,34 @@
+.text:0000000000001AD2                 push    18Dh
+.text:0000000000001AD7                 push    1FFh
+.text:0000000000001ADC                 push    12Ah
+.text:0000000000001AE1                 push    23Eh
+.text:0000000000001AE6                 push    143h
+.text:0000000000001AEB                 push    191h
+.text:0000000000001AF0                 push    19Fh
+.text:0000000000001AF5                 push    135h
+.text:0000000000001AFA                 push    142h
+.text:0000000000001AFF                 push    22Ah
+.text:0000000000001B04                 push    1FEh
+.text:0000000000001B09                 push    151h
+.text:0000000000001B0E                 push    185h
+.text:0000000000001B13                 push    14Ah
+.text:0000000000001B18                 push    1B8h
+.text:0000000000001B1D                 push    0D2h
+.text:0000000000001B22                 push    2AAh
+.text:0000000000001B27                 push    16Dh
+.text:0000000000001B2C                 push    23Fh
+.text:0000000000001B31                 push    0E7h
+.text:0000000000001B36                 push    21Ah
+.text:0000000000001B3B                 push    185h
+.text:0000000000001B40                 push    1BFh
+.text:0000000000001B45                 push    109h
+.text:0000000000001B4A                 push    15Fh
+.text:0000000000001B4F                 push    101h
+.text:0000000000001B54                 push    205h
+.text:0000000000001B59                 push    0B3h
+.text:0000000000001B5E                 mov     r9d, 1AAh
+.text:0000000000001B64                 mov     r8d, 1CBh
+.text:0000000000001B6A                 mov     ecx, 1C4h
+.text:0000000000001B6F                 mov     edx, 186h
+.text:0000000000001B74                 mov     esi, 208h
+.text:0000000000001B79                 mov     edi, 1D3h
